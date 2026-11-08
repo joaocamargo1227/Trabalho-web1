@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0e4"/><stop offset="1" stop-color="#f4e8dd"/></linearGradient><linearGradient id="bottle" x2="1" y2="1"><stop stop-color="#e6a67e"/><stop offset="1" stop-color="#b7684f"/></linearGradient><filter id="s"><feGaussianBlur stdDeviation="12"/></filter></defs>
+<rect width="640" height="480" rx="28" fill="url(#bg)"/><ellipse cx="320" cy="391" rx="80" ry="17" fill="#996c56" opacity=".2" filter="url(#s)"/>
+<rect x="280" y="76" width="80" height="37" rx="10" fill="#624f49"/><rect x="272" y="103" width="96" height="40" rx="13" fill="#9f6654"/><path d="M272 136c0-12 9-22 21-22h54c12 0 21 10 21 22l24 53v155c0 25-20 45-45 45h-54c-25 0-45-20-45-45V189l24-53Z" fill="url(#bottle)"/>
+<path d="M267 184h106v151c0 15-12 27-27 27h-52c-15 0-27-12-27-27V184Z" fill="#d18b6c" opacity=".56"/><path d="M288 161v179" stroke="#f9d0b3" stroke-width="8" stroke-linecap="round" opacity=".55"/><path d="M297 239h46" stroke="#f8dfcc" stroke-width="5" stroke-linecap="round" opacity=".7"/><text x="320" y="285" text-anchor="middle" fill="#fff5ee" font-family="Arial" font-size="17" font-weight="700" letter-spacing="4">URBAN</text>
+<path d="M300 93h40" stroke="#d5b5a6" stroke-width="4" stroke-linecap="round"/>
+</svg>
